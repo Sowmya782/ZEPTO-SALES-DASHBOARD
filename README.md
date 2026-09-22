@@ -17,7 +17,7 @@
 
 ## Dataset Used
 
-<a href="https://github.com/Sowmya782/ZEPTO-SALES-DASHBOARD/blob/main/ZEPTO_SALES%20DASHBOARD.xlsx">Dataset</a>
+<a href ="https://github.com/Sowmya782/ZEPTO-SALES-DASHBOARD/blob/main/ZEPTO_SALES%20DASHBOARD.xlsx">Dataset</a>
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## Dashboard
 
-<img width="1197" height="552" alt="Sales and Delivery Dashboard" src="YOUR_DASHBOARD_IMAGE_LINK">
+<a href ="https://github.com/Sowmya782/ZEPTO-SALES-DASHBOARD/blob/main/ZEPTO%20SALES%20DASHBOARD.png">DASHBOARD</a>
 
 ---
 
